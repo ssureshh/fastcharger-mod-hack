@@ -1,5 +1,7 @@
 # QuickCharge/FastCharge 18W chargers/Powerbanks hack
----
+
+<img src=./pics/5.jpeg alt="setup" title="setup" width=50% />
+
 
 Most latest USB chargers/Powerbanks that are provided/bought with smartphones, are enabled for fast charge or quick charge (terms change according to brand). Majority of these chargers/powerbanks have variable Voltage output - 5 volts, 9 volts and 12 volts(and sometimes 20 volts too!). But these seem to only work when a smartphone is connect, i.e. when a stripped USB cable is attached and voltage is measured, the maximum output is 5 volts. This experiment was done to learn and mod an existing charger/powerbank to use as an reliable 9v or 12v power source.
 
@@ -23,7 +25,19 @@ The above table is Qualcomm's QuickCharge2.0 standard. Watch this amazing video 
 - Stripped USB cable with USB Type-A Male connector
 - Jumpers, breadboard, headers as required
 
-## Circuit :
+## Circuit and Pictures:
+<!-- ![Circuit](./pics/1.jpeg) -->
+<!-- ![Circuit](./pics/2.jpeg)
+![Circuit](./pics/3.jpeg)
+![Circuit](./pics/4.jpeg)
+![Circuit](./pics/5.jpeg) -->
+<img src=./pics/1.jpeg alt="Circuit" title="Circuit diagram" width=80% />
+
+<img src=./pics/3.jpeg alt="5volts" title="5 volts" width=50% />
+<img src=./pics/2.jpeg alt="9volts" title="9 volts" width=50% />
+<img src=./pics/4.jpeg alt="12volts" title="12 volts" width=50% />
+
+
 
 
 ## Things to do : 
