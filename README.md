@@ -17,6 +17,8 @@ Data +  | Data -    | Output
 The above table is Qualcomm's QuickCharge2.0 standard. Watch this amazing video by Andrew spiess for a detailed explaination of this protocol.
 [#244 QC3.0 Hacking and Tutorial incl. QC2.0 (Mobile Power Supply) Quick charge with Arduino](https://www.youtube.com/watch?v=dw3MehLAyWU)
 
+I've tested out with Mi 18W fast charger and Motorola Turbo Charger. It should work with any 18W fast charger. Check before buying. 
+Some fast chargers such as the OnePlus Warp Charger does not support this. Its only 5v at 6amps.
 
 ## Things required : 
 - A microcontroller with 3.3 level logic - I've used a nodeMCU, but if you change the resistor values in the voltage divider circuit, any 5v uControllers can be used
